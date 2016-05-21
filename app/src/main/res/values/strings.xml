@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DrKara</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_arirang">Arirang</string>
+    <string name="title_california">California</string>
+    <string name="title_musiccore">MusicCore</string>
+    <string name="title_vietktv">Việt KTV</string>
+    <string name="title_favorite">Yêu thích</string>
+    <string name="title_help">Hướng dẫn</string>
+    <string name="title_information">Thông tin</string>
+
+    <string name="information">Một sản phẩm đến từ <b>DrTeam</b></string>
+    <string name="slogan"><b>DrTeam</b> - Vì một xã hội truyền cảm hứng</string>
+</resources>

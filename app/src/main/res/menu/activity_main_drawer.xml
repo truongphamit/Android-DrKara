@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_arirang"
+            android:icon="@drawable/ic_menu_arirang"
+            android:title="@string/title_arirang" />
+        <item
+            android:id="@+id/nav_california"
+            android:icon="@drawable/ic_menu_california"
+            android:title="@string/title_california" />
+        <item
+            android:id="@+id/nav_musiccore"
+            android:icon="@drawable/ic_menu_musiccore"
+            android:title="@string/title_musiccore" />
+        <item
+            android:id="@+id/nav_vietktv"
+            android:icon="@drawable/ic_menu_vietktv"
+            android:title="@string/title_vietktv" />
+
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_menu_favorite"
+            android:title="@string/title_favorite" />
+    </group>
+
+    <item android:title="Hỗ trợ">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_menu_help"
+                android:title="@string/title_help" />
+
+            <item
+                android:id="@+id/nav_information"
+                android:icon="@drawable/ic_menu_information"
+                android:title="@string/title_information" />
+        </menu>
+    </item>
+
+</menu>
